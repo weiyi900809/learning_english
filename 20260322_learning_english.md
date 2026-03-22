@@ -46,3 +46,31 @@ Ace Public **reassured** (再三確保) their **clients** (客戶) that the **de
 - (B) itself 它自己 (反身代名詞)
 - (C) theirs 他們的 (所有格代名詞)
 - **(D) themselves 他們自己 (反身代名詞)** *(註：圖片中此選項有紅框標示)*
+
+----
+----
+
+
+### 💡 重點筆記
+
+*   **On schedule:** 準時
+*   **Ahead of schedule:** 超前行程
+*   **Corporate:** 公司
+*   **Cooperate:** 合作
+*   **多益常見連接副詞:**
+    *   **Hence / Thus / Therefore:** 因此
+    *   **However / Nonetheless:** 不過、然而
+    *   **Besides / In addition / moreover:** 除此之外
+    *   **Similarly:** 相同的
+    *   **Otherwise:** 否則
+
+---
+
+### 9. 單字題 – 連接詞
+
+空格 the **team** (團隊) was **behind** (落後) **schedule** (行程), they worked **collaboratively** (合作的) together and **managed to** (能夠) **meet the deadline** (期限內繳交).
+
+- (A) Nevertheless 不過、然而
+- (B) Despite 儘管 (介係詞 + N)
+- (C) Because 因為
+- **(D) Although 雖然** *(註：圖片中此選項有紅框標示)*
