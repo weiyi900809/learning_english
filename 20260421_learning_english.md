@@ -35,11 +35,6 @@ Before she started climbing on my back and ran under the bed, and I made everyon
 ----
 ----
 
-這就為您將圖片中的重點筆記與題目整理成適合貼到 GitHub 的 Markdown 格式，並秉持嚴謹的邏輯為您進行這道介係詞題目的語意與解題分析：
-
-您可以直接複製以下區塊的程式碼：
-
-```markdown
 ### 💡 重點單字與片語筆記：介係詞用法
 
 * **Walk into / run into / bump into:** 撞到 / 撞見
@@ -57,11 +52,9 @@ You need to walk ------ the **footbridge** (人行天橋) to get to the **grocer
 - (B) among 在多者之中間
 - **(C) across 跨越** *(註：圖片中此選項有紅框標示)*
 - (D) below 在下方
-```
 
----
 
-### 🧐 題目嚴謹分析與解題邏輯
+###  題目嚴謹分析與解題邏輯
 
 這是一道測驗**「空間介係詞 (Prepositions of Place/Movement)」**與**「上下文邏輯」**的經典題型。解題的關鍵在於找出句子中的「動作方向」與「目的地線索」。
 
